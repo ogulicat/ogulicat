@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ozan;
 - 👀 I am mostly involved with web development.
-- 📫 You can reach me on [LinkedIn](https://linkedin.com/in/ozangulicat/ "Ozan's LinkedIn Profile") profile.
+- 📫 You can reach me on my [LinkedIn](https://linkedin.com/in/ozangulicat/ "Ozan's LinkedIn Profile") profile.
 
 
 <!---
