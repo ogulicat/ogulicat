@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Ozan;
-
-
--- 📫 You can reach me on my [LinkedIn](https://linkedin.com/in/ozangulicat/ "Ozan's LinkedIn Profile") profile.
+- 📫 You can reach me on my [LinkedIn](https://linkedin.com/in/ozangulicat/ "Ozan's LinkedIn Profile") profile.
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ozangulicat/)
