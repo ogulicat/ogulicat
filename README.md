@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Ozan;
+- 💻 I work on the back-end side; besides I'm currently into React.
 - 📫 You can reach me on my [LinkedIn](https://linkedin.com/in/ozangulicat/ "Ozan's LinkedIn Profile") profile.
 
 
