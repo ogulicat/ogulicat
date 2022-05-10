@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ozan;
-- 💻 I work on the back-end side; besides I'm currently into React.
+- 💻 My Stack: PHP (Laravel, CodeIgniter), MySQL, HTML5, CSS3, Javascript, SOAP & REST Web Services... Also, I continue to develop myself and gain experience with ASP.NET Core, Angular technologies.
 - 📫 You can reach me on my [LinkedIn](https://linkedin.com/in/ozangulicat/ "Ozan's LinkedIn Profile") profile.
 
 
