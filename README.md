@@ -28,8 +28,8 @@
 <p>
   <img width="35%" src="https://github-readme-stats.vercel.app/api?username=ogulicat&count_private=true&show_icons=true&theme=radical" />
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogulicat&layout=compact&theme=radical" />
+  <img src="https://komarev.com/ghpvc/?username=ogulicat&color=1460dc&style=flat-square&label=Visitor%20Count" />
 </p>
-<img width="7%" src="https://komarev.com/ghpvc/?username=ogulicat&color=1460dc&style=flat-square&label=Visitor%20Count" />
 
 
 <br>
