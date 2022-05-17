@@ -8,7 +8,7 @@
 
 <!-- > [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ozangulicat/) -->
 
-
+<br>
 ### 🔧 Stacks
 | Type | Name  |
 |---|---|
@@ -21,7 +21,7 @@
 | ![Others](https://img.shields.io/badge/Others-informational?style=flat&color=e85d04) | [![OpenVPN](https://img.shields.io/badge/‎-OpenVPN-informational?style=flat&logo=openvpn&color=ffba08)](https://openvpn.net/) [![Postman](https://img.shields.io/badge/‎-Postman-informational?style=flat&logo=postman&color=ffba08)](https://postman.com/) [![FileZilla](https://img.shields.io/badge/‎-FileZilla-informational?style=flat&logo=filezilla&color=ffba08)](https://filezilla-project.org/) ![Cloudflare](https://img.shields.io/badge/‎-Cloudflare-informational?style=flat&logo=cloudflare&color=ffba08) |
 
 
-<br />
+<br>
 ## 📈 Statistics
 <p>
   <img width="35%" src="https://github-readme-stats.vercel.app/api?username=ogulicat&count_private=true&show_icons=true&theme=radical" />
@@ -30,7 +30,7 @@
 <img width="7%" src="https://komarev.com/ghpvc/?username=ogulicat&color=1460dc&style=flat-square&label=Visitor%20Count" />
 
 
-<br />
+<br>
 ## Contact Me
 [![Web](https://img.shields.io/badge/Web-https%3A%2F%2Fwww.35kod.com%2F-informational?style=flat&color=ffba08)](https://www.35kod.com/)
 [![Email](https://img.shields.io/badge/E--Mail-gulicatozan[at]gmail.com-informational?style=flat&logo=mail.ru&logoColor=white&color=ffba08)](mailto:gulicatozan[at]gmail.com)
