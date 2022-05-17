@@ -22,6 +22,7 @@
 | ![Others](https://img.shields.io/badge/Others-informational?style=flat&color=e85d04) | [![OpenVPN](https://img.shields.io/badge/‎-OpenVPN-informational?style=flat&logo=openvpn&color=ffba08)](https://openvpn.net/) [![Postman](https://img.shields.io/badge/‎-Postman-informational?style=flat&logo=postman&color=ffba08)](https://postman.com/) [![FileZilla](https://img.shields.io/badge/‎-FileZilla-informational?style=flat&logo=filezilla&color=ffba08)](https://filezilla-project.org/) ![Cloudflare](https://img.shields.io/badge/‎-Cloudflare-informational?style=flat&logo=cloudflare&color=ffba08) |
 
 
+<!--
 <br>
 
 ## 📈 Statistics
@@ -29,7 +30,7 @@
   <img width="35%" src="https://github-readme-stats.vercel.app/api?username=ogulicat&count_private=true&show_icons=true&theme=radical" />
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogulicat&layout=compact&theme=radical" />
 </p>
-
+-->
 
 <br>
 
