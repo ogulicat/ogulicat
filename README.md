@@ -9,6 +9,7 @@
 <!-- > [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ozangulicat/) -->
 
 <br>
+
 ### 🔧 Stacks
 | Type | Name  |
 |---|---|
@@ -22,6 +23,7 @@
 
 
 <br>
+
 ## 📈 Statistics
 <p>
   <img width="35%" src="https://github-readme-stats.vercel.app/api?username=ogulicat&count_private=true&show_icons=true&theme=radical" />
@@ -31,9 +33,8 @@
 
 
 <br>
+
 ## Contact Me
 [![Web](https://img.shields.io/badge/Web-https%3A%2F%2Fwww.35kod.com%2F-informational?style=flat&color=ffba08)](https://www.35kod.com/)
 [![Email](https://img.shields.io/badge/E--Mail-gulicatozan[at]gmail.com-informational?style=flat&logo=mail.ru&logoColor=white&color=ffba08)](mailto:gulicatozan[at]gmail.com)
 [![Linkedin](https://img.shields.io/badge/Linkedin-@ozan--gulicat-informational?style=flat&logo=linkedin&logoColor=0077B5&color=ffba08)](https://www.linkedin.com/in/ozangulicat)
-
-
