@@ -28,7 +28,6 @@
 <p>
   <img width="35%" src="https://github-readme-stats.vercel.app/api?username=ogulicat&count_private=true&show_icons=true&theme=radical" />
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogulicat&layout=compact&theme=radical" />
-  <img src="https://komarev.com/ghpvc/?username=ogulicat&color=1460dc&style=flat-square&label=Visitor%20Count" />
 </p>
 
 
@@ -38,3 +37,7 @@
 [![Web](https://img.shields.io/badge/Web-https%3A%2F%2Fwww.35kod.com%2F-informational?style=flat&color=ffba08)](https://www.35kod.com/)
 [![Email](https://img.shields.io/badge/E--Mail-gulicatozan[at]gmail.com-informational?style=flat&logo=mail.ru&logoColor=white&color=ffba08)](mailto:gulicatozan[at]gmail.com)
 [![Linkedin](https://img.shields.io/badge/Linkedin-@ozan--gulicat-informational?style=flat&logo=linkedin&logoColor=0077B5&color=ffba08)](https://www.linkedin.com/in/ozangulicat)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ogulicat&color=1460dc&style=flat-square&label=Visitor%20Count" />
