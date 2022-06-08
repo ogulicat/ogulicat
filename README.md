@@ -1,7 +1,7 @@
 > ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Ozan's+GitHub+Profile!)
 
 
-- Hi, I’m Ozan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="18px">
+- Hi, I’m Ozan, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="18px">
 - 💻 My Stack: PHP (Laravel, CodeIgniter), MySQL, HTML5, CSS3, Javascript, SOAP & REST Web Services... Also, I continue to develop myself and gain experience with ASP.NET Core, Angular technologies.
 - 📫 You can reach me on my [LinkedIn](https://linkedin.com/in/ozangulicat/ "Ozan's LinkedIn Profile") profile.
 
@@ -35,7 +35,7 @@
 <br>
 
 ## Contact Me
-[![Web](https://img.shields.io/badge/Web-https%3A%2F%2Fwww.35kod.com%2F-informational?style=flat&color=ffba08)](https://www.35kod.com/)
+[![Web](https://img.shields.io/badge/Web-https%3A%2F%2F35kod.com%2F-informational?style=flat&color=ffba08)](https://35kod.com/)
 [![Email](https://img.shields.io/badge/E--Mail-gulicatozan[at]gmail.com-informational?style=flat&logo=mail.ru&logoColor=white&color=ffba08)](mailto:gulicatozan@gmail.com)
 [![Linkedin](https://img.shields.io/badge/Linkedin-@ozan--gulicat-informational?style=flat&logo=linkedin&logoColor=0077B5&color=ffba08)](https://www.linkedin.com/in/ozangulicat)
 
