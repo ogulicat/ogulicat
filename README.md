@@ -33,12 +33,12 @@
     <h4 align="center">Learning:</h4>
 </p>
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png?20210328084203" alt="net core" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="55" height="55" />
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vueJS" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png?20210328084203" alt="net core" width="28" height="28" />
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="28" height="28" />
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="28" height="28" />
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="28" height="28" />
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vueJS" width="28" height="28" />
+    <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="28" height="28" />
 </p>
 <br/>
 
