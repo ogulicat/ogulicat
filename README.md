@@ -14,7 +14,7 @@
   <p align="center">
     <img
     src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql width="40" height="40" />
     <img src="https://upload.vectorlogo.zone/logos/laravel/images/fd9bffa7-873e-4946-92bc-815ed69faeec.svg" alt="laravel" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
